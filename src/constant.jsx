@@ -57,14 +57,14 @@ export const SkillsInfo = [
     ],
   },
   {
-    title: "language_logos",
+    title: "Programing Languages",
     skills: [
       { name: "JavaScript", logo: javascriptLogo },
       { name: "TypeScript", logo: typescriptLogo },
     ],
   },
   {
-    title: "tech_logo",
+    title: "Tech",
     skills: [
       { name: "Git", logo: gitLogo },
       { name: "GitHub", logo: githubLogo },
