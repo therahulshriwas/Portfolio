@@ -57,7 +57,7 @@ export const SkillsInfo = [
     ],
   },
   {
-    title: "Programing Languages",
+    title: "Languages",
     skills: [
       { name: "JavaScript", logo: javascriptLogo },
       { name: "TypeScript", logo: typescriptLogo },
