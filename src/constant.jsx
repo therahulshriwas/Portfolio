@@ -15,6 +15,7 @@ import mysqlLogo from "./assets/backend/mySQLlogo.png";
 //language_logos
 import typescriptLogo from "./assets/language_logo/Typescriptlogo.png";
 import javascriptLogo from "./assets/language_logo/jslogo.png";
+import phpLogo from "./assets/language_logo/phpLogo.png";
 
 // tech_logo
 import gitLogo from "./assets/tech_logo/gitlogo.png";
@@ -22,6 +23,7 @@ import githubLogo from "./assets/tech_logo/githublogo.png";
 import vscodeLogo from "./assets/tech_logo/vscodelogo.png";
 import postmanLogo from "./assets/tech_logo/postmanlogo.png";
 import vercelLogo from "./assets/tech_logo/vercelLogo.png";
+import WordpressLogo from "./assets/tech_logo/wordpresslogo.png";
 
 // Education Logo
 import IGNOU from "./assets/education_logo/IGNOU_logo.png";
@@ -61,6 +63,7 @@ export const SkillsInfo = [
     skills: [
       { name: "JavaScript", logo: javascriptLogo },
       { name: "TypeScript", logo: typescriptLogo },
+      { name: "php", logo: phpLogo },
     ],
   },
   {
@@ -71,6 +74,7 @@ export const SkillsInfo = [
       { name: "VS Code", logo: vscodeLogo },
       { name: "Postman", logo: postmanLogo },
       { name: "Vercel", logo: vercelLogo },
+        { name: "Wordpress", logo: WordpressLogo },
     ],
   },
 ];
@@ -102,7 +106,7 @@ export const experience = [
 
 //Projects
 export const projects = [
-  // {
+  ,// {
   //   id: 1,      //Project Id
   //   title: "", //Project Title
   //   description: "",//Project Description
@@ -111,8 +115,6 @@ export const projects = [
   //   github: "", //github link of project
   //   webapp: "", //official website link of project
   // },
-
-  ,
 ];
 
 //Education
